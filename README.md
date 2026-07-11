@@ -1,4 +1,3 @@
-<img width="1463" height="780" alt="Screenshot 2026-07-11 at 12 08 21 PM" src="https://github.com/user-attachments/assets/166d8515-0b14-4eec-b800-809036f3d32f" />
 # FlyRank Mini Backend
 
 The smallest possible backend: a FastAPI server with two JSON endpoints.
