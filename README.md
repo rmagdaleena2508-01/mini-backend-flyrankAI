@@ -1,4 +1,4 @@
-# FlyRank Mini Backend
+# Mini Backend
 
 The smallest possible backend: a FastAPI server with two JSON endpoints.
 
