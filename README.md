@@ -41,4 +41,14 @@ curl http://127.0.0.1:8000/hello
 
 ## Screenshots
 
-(add your screenshots here once uploaded to the repo)
+<img width="1450" height="781" alt="Screenshot 2026-07-11 at 11 51 47 AM" src="https://github.com/user-attachments/assets/3d8a9358-e9c1-4456-86a9-0061acc7fb31" />
+
+<img width="1440" height="779" alt="Screenshot 2026-07-11 at 11 52 26 AM" src="https://github.com/user-attachments/assets/31d7da15-ef34-4b42-b7a8-4fcb1f00729d" />
+
+<img width="1449" height="783" alt="Screenshot 2026-07-11 at 11 53 19 AM" src="https://github.com/user-attachments/assets/89f36ab7-9289-4f3a-8b37-0b025fcad96e" />
+
+<img width="1448" height="778" alt="Screenshot 2026-07-11 at 11 54 10 AM" src="https://github.com/user-attachments/assets/154f770f-7ceb-41b0-b3e4-9daa15e29cfc" />
+
+
+
+
